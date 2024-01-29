@@ -1,8 +1,13 @@
 -👋 Hola , I'm TARAK PATEL! 👋
+
 -👨‍💻 Software Developer
+
 -👨‍💻 Exploring Backend Development
+
 -📫 How to reach me: www.linkedin.com/in/tarakpatell
+
 -😄 Pronouns: He/His
+
 -📧 Email Me - tarakpatel1000@gmail.com
 
 <!---
